@@ -21,7 +21,7 @@ const {
     proto,
     prepareWAMessageMedia,
     generateWAMessageFromContent
-} = require('neno-baileys');
+} = require('dct-dev-private-baileys');
 
 //  URL එකට ඔයාගේ MongoDB connection string එක දාන්න
 const MONGO_URL = "mongodb+srv://Riko:Riko2005@cluster0.gt2dyru.mongodb.net/"; 
